@@ -5,7 +5,4 @@ Predictive modelling using radiology data
 
 A predictive model to identify COVID patients who responded to steroids based on their Day 1 CXR. 
 
-## Getting Started
-
-### Dependencies
 
